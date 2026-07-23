@@ -1,0 +1,14 @@
+loss_id,job_id,era,loss_date,amount_lost,loss_type,reason_raw,reason_category,responsible_party,estimator_cohort,customer_id,matched_to_main_tracker
+LOSS-001,7558,2025,2025-08-22,2457.0,full_loss,Remodel work did not qualify for pse rebate,eligibility,estimator,Estimator A,CUST-0287,True
+LOSS-002,7646,2025,2025-09-29,1350.0,partial_writedown,Previously claimed rebates not fully rejected but adjusted amount,admin_duplicate,estimator,Estimator A,CUST-0305,True
+LOSS-003,7685,2025,2025-10-13,2165.4,full_loss,Not elegible,eligibility,estimator,Estimator B,CUST-0317,True
+LOSS-004,8029,2026,2026-01-19,2320.5,full_loss,Attic work was part of restoration does not qualify,eligibility,estimator,Estimator A,CUST-0390,True
+LOSS-005,7820,2025,2025-11-12,4467.5,full_loss,Failed to check primary heat source,data_capture_error,estimator,Estimator A,CUST-0348,True
+LOSS-006,6343,2024,2024-06-12,5820.0,unknown_no_matching_job,Job had not been filed for and by the time it was filed for no photos existed. ,documentation_timing,crew,Estimator A,CUST-LOST-006,False
+LOSS-007,7867,2025,2025-11-24,2708.75,partial_writedown,,unrecorded,unrecorded,Estimator C,CUST-0358,True
+LOSS-008,6876,2024,2024-12-20,2700.0,unknown_claimed_amount_missing,Wrong heating source ,data_capture_error,estimator,Estimator A,CUST-0144,True
+LOSS-009,8007,2026,2026-01-14,196.2,partial_writedown,Air seal not invoiced so the rebate cannot be claimed,documentation_timing,office_billing,Estimator B,CUST-0385,True
+LOSS-010,7565,2026,2026-02-04,1000.0,partial_writedown,Duct Seal Rebates Never Sumbitted by field crew,documentation_timing,processor,Estimator A,CUST-0288,True
+LOSS-011,8247,2026,2026-03-24,250.0,partial_writedown,Already claimed floor rebates,admin_duplicate,estimator,Estimator A,CUST-0414,True
+LOSS-012,8467,2026,2026-05-26,480.0,partial_writedown,Max wall insulation amount is $5000,eligibility,estimator,Estimator C,CUST-0444,True
+LOSS-013,8559,2026,2026-06-19,1741.5,full_loss,House Built in 1999,eligibility,estimator,Estimator B,CUST-0479,True
