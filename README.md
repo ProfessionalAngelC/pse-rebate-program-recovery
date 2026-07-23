@@ -6,7 +6,7 @@ A real operational turnaround, documented and analyzed with real data: how a fai
 
 ## Background
 
-The residential insulation company I work for participates in a Puget Sound Energy (PSE) rebate program for qualifying insulation work. The program requires strict documentation, photo evidence, and paperwork compliance on a per-job basis for rebates to be approved and paid.
+Evergreen Insulation LLC participates in a Puget Sound Energy (PSE) rebate program for qualifying insulation work. The program requires strict documentation, photo evidence, and paperwork compliance on a per-job basis for rebates to be approved and paid.
 
 Before I took it over, the program was in bad shape. Leadership had reported roughly $100,000 in losses under prior management — a figure I haven't independently verified from data I have access to, so I'm not treating it as a calculated result here, just the context I inherited. What I can say with certainty: a full year under the accounting team's ownership hadn't fixed it either.
 
@@ -103,6 +103,28 @@ This analysis, built later, gives that earlier decision real supporting evidence
 
 Full write-up in `docs/06_cross_reference_to_estimate_accuracy_project.md`.
 
+---
+
+## Repository Structure
+
+```
+├── README.md                          ← this file
+├── docs/
+│   ├── 01_discovery_and_stakeholder_notes.md
+│   ├── 02_data_profiling_notes.md
+│   ├── 03_assumptions_and_limitations_log.md
+│   ├── 04_business_requirements.md
+│   ├── 05_data_dictionary_source_to_target_mapping.md
+│   └── 06_cross_reference_to_estimate_accuracy_project.md
+├── data/
+│   └── cleaned/
+│       ├── fact_pse_jobs.csv
+│       ├── fact_lost_rebates.csv
+│       └── sample_approval_times.csv
+├── sql/
+│   └── (one .sql file per business question, BR1–BR7)
+└── dashboard/
+    └── pse_recovery_dashboard.pbix
 ```
 
 ## Tools Used
