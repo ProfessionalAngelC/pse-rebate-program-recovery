@@ -103,28 +103,6 @@ This analysis, built later, gives that earlier decision real supporting evidence
 
 Full write-up in `docs/06_cross_reference_to_estimate_accuracy_project.md`.
 
----
-
-## Repository Structure
-
-```
-├── README.md                          ← this file
-├── docs/
-│   ├── 01_discovery_and_stakeholder_notes.md
-│   ├── 02_data_profiling_notes.md
-│   ├── 03_assumptions_and_limitations_log.md
-│   ├── 04_business_requirements.md
-│   ├── 05_data_dictionary_source_to_target_mapping.md
-│   └── 06_cross_reference_to_estimate_accuracy_project.md
-├── data/
-│   └── cleaned/
-│       ├── fact_pse_jobs.csv
-│       ├── fact_lost_rebates.csv
-│       └── sample_approval_times.csv
-├── sql/
-│   └── (one .sql file per business question, BR1–BR7)
-└── dashboard/
-    └── pse_recovery_dashboard.pbix
 ```
 
 ## Tools Used
