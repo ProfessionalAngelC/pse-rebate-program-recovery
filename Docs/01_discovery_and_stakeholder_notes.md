@@ -5,7 +5,7 @@
 
 ## 1. Program background
 
-Puget Sound Energy (PSE) offers a rebate program for qualifying residential insulation work. The residential insulation company I work for participates in this program, which requires strict documentation, photo evidence, and paperwork compliance on a per-job basis in order for rebates to be approved and paid out.
+Puget Sound Energy (PSE) offers a rebate program for qualifying residential insulation work. Evergreen Insulation LLC participates in this program, which requires strict documentation, photo evidence, and paperwork compliance on a per-job basis in order for rebates to be approved and paid out.
 
 **Program history, prior to this analysis's data:**
 - Through 2023, the PSE program was managed by the accounting team, following prior years of reported significant losses. After a full year under accounting ownership, the program had still not been stabilized, and continued operating at a loss.
