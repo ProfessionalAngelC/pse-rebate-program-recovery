@@ -1,0 +1,39 @@
+date,job_id,customer,amount,photos,submitted_date,status,estimator,program,account_type,notes,processed_by
+2026-02-20 00:00:00,8030.0,CUST-001,9230.68,Sent ,,Grant-Client Paid,Estimator C,Cascade Gas,,,
+2026-06-23 00:00:00,8576.0,CUST-002,7764.9,,,Grant-Client Paid,Estimator A,Cascade Gas,,,
+2024-04-25 00:00:00,6221.0,CUST-003,1500.0,READY ,2024-06-21,Approved ,Estimator A,Tacoma Power,REBATE ,has been paid ,
+2024-06-06 00:00:00,6328.0,CUST-004,750.0,READY ,,Approved ,Estimator B,Tacoma Power,REBATE ,has been paid ,
+2024-06-11 00:00:00,6341.0,CUST-005,1500.0,READY ,,Approved ,Estimator B,Tacoma Power,REBATE ,has been paid ,
+2024-09-13 00:00:00,6593.0,CUST-006,750.0,READY ,, ,Estimator A,Tacoma Power,REBATE ,Client has paid,
+2024-10-11 00:00:00,6671.0,CUST-007,750.0,READY ,,,Estimator B,Tacoma Power,REBATE ,Client has paid,
+11/30-12/02/2024,6254.0,CUST-008,2250.0,READY ,,Approved ,Estimator B,Tacoma Power,REBATE ,Client has paid ,
+2024-12-17 00:00:00,6867.0,CUST-009,750.0,READY ,,,Estimator B,Tacoma Power,REBATE ,Client has paid,
+2025-02-19 00:00:00,7019.0,CUST-010,14737.34,Sent,2025-02-21,,Estimator B,PUD,,"Invoice, before and after pictures have been sumbitted ",
+2025-03-07 00:00:00,7047.0,CUST-011,11867.43,Sent,,,Estimator B,PUD,,"Invoice, before and after pictures have been sumbitted ",
+2025-03-20 00:00:00,7074.0,CUST-012,7045.59,Sent,2025-03-21,,Estimator B,PUD,,"Invoice, before and after pictures have been sumbitted ",
+2025-03-21 00:00:00,7092.0,CUST-013,8757.67,,,,Estimator B,PUD,,,
+2025-04-03 00:00:00,7075.0,CUST-014,7325.33,Sent,,,Estimator A,PUD,,Invoice was sent,
+2025-03-28 00:00:00,7097.0,CUST-015,6151.07,Sent,2025-04-01,,Estimator B,PUD,,"Invoice, before and after pictures have been sumbitted ",
+2025-04-01 00:00:00,7037.0,CUST-016,4851.0,Sent,2025-04-05,,Estimator B,PUD,,"Invoice, before and after pictures have been sumbitted ",
+,7154.0,CUST-017,9623.66,Sent,2025-04-17,,Estimator B,PUD,,"Invoice, before and after pictures have been sumbitted ",
+,7238.0,CUST-018,5697.0,Sent,2025-04-05,,Estimator A,PUD,,"Invoice, before and after pictures have been sumbitted ",
+,7272.0,CUST-019,8981.71,Sent,,,Estimator B,PUD,,,
+,7445.0,CUST-020,6145.2,Sent,2025-07-11,,Estimator B,PUD,,"Invoice, before and after pictures have been sumbitted ",
+,7976.0,CUST-021,,Sent,,,,PUD,,"Invoice, before and after pictures have been sumbitted ",
+,8014.0,CUST-022,,Sent,,,,PUD,,"Invoice, before and after pictures have been sumbitted ",
+2025-10-08 00:00:00,,CUST-023,1828.68,,,In Progress,,Clallam PUD,,Job came before program admission so post approval needed,
+2025-12-09 00:00:00,,CUST-024,1336.5,,,In Progress,,Clallam PUD,,,
+2025-12-23 00:00:00,,CUST-025,2475.0,,,In Progress,,Clallam PUD,,,
+,8031.0,CUST-026,1500.0,,2026-03-09,PAID,Estimator C,Tacoma Power,,,Vanessa
+,8392.0,CUST-027,2937.51,,2026-04-29,PAID,Estimator B,Tacoma Power,,,Vanessa
+,8383.0,CUST-028,5409.6,,2026-04-27,PAID,Estimator A,Tacoma Power,,,Vanessa
+,8458.0,CUST-029,11851.22,,2026-06-03,PAID,Estimator B,Tacoma Power,,,Vanessa
+,8425.0,CUST-030,750.0,,2026-05-12,PAID,Estimator B,Tacoma Power,,,Vanessa
+,8481.0,CUST-031,6012.0,,2026-06-30,SUBMITTED,Estimator B,Tacoma Power,,,Vanessa
+2026-01-16 00:00:00,8014.0,CUST-032,1530.0,Done,2026-01-27,,Estimator B,Lewis PUD,, Send invoices to: energyservices@lcpud.org,
+2026-02-05 00:00:00,8089.0,CUST-033,4906.66,Done,2026-02-06,,Estimator B,Lewis PUD,,,
+2026-03-12 00:00:00,8212.0,CUST-034,4730.0,Done,2026-04-01,,Estimator C,Lewis PUD,,,
+2026-05-19 00:00:00,8453.0,CUST-035,1366.2,,2026-06-03,,Estimator C,Clallam PUD,,PAID,Vanessa
+2025-12-22 00:00:00,7947.0,CUST-036,2475,,2026-02-02,,Estimator C,Clallam PUD,,,Vanessa
+2026-06-08 00:00:00,8515.0,CUST-037,1659,,2026-06-11,PAID,Estimator A,SnoPUD,,Application No: 3053901,
+2026-06-17 00:00:00,8513.0,CUST-038,318.6,,2026-06-22,,Estimator A,Cowlitz PUD,,final inspection with the customer on Wednesday at 2:00pm. 6/24,
