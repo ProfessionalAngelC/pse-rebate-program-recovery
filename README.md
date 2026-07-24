@@ -123,10 +123,18 @@ Full write-up in `docs/06_cross_reference_to_estimate_accuracy_project.md`.
 │       └── sample_approval_times.csv
 ├── sql/
 │   └── (one .sql file per business question, BR1–BR7)
-└── dashboard/
-    └── pse_recovery_dashboard.pbix
+├── dashboard/
+│   └── pse_recovery_dashboard.pbix
+└── python-analysis/
+    ├── README.md
+    ├── other_utility_programs_analysis.ipynb
+    └── other_utility_programs_cleaned.csv
 ```
+
+## Python Analysis: Other Utility Programs
+
+The documentation framework built for PSE was later adapted to other utility rebate programs — Tacoma Power, Cascade Gas, Clallam PUD, Lewis PUD, SnoPUD, and Cowlitz PUD. `/python-analysis` makes that concrete: a hands-on pandas notebook that cleans and combines 9 separate, inconsistently-structured spreadsheet tabs into one 38-record dataset, finding **$167,514.55** in combined rebate value across all 7 programs. Full write-up in `python-analysis/README.md`.
 
 ## Tools Used
 
-SQL Server / T-SQL for verified analysis · Power BI for the interactive dashboard · Python for data cleaning and anonymization
+SQL Server / T-SQL for verified analysis · Power BI for the interactive dashboard · Python (pandas, matplotlib) for data cleaning, combining, and additional analysis
